@@ -88,9 +88,6 @@ public static int[][] fillArrayWithRandomScore(int[][] game){
 
 SecureRandom random = new SecureRandom();
 
-
-
-
 for(int row = 0; row < game.length; row++){
 
 for(int column = 0; column < game[1].length; column++){
